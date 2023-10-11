@@ -1,5 +1,4 @@
-![alt text](https://raw.githubusercontent.com/kushobyrne/Better-Align-Tools/main/bat-logov0.1.png?token=GHSAT0AAAAAACIWLG5CLIIIWC63WRQRUWOQZJFGTTA)
-
+![a](https://github.com/kushobyrne/Better-Align-Tools/blob/main/bat-logov0.1.png?raw=true)
 # Better-Align-Tools
 
 A tiny alignment script for After Effects. Fully commented for learning purposes.
